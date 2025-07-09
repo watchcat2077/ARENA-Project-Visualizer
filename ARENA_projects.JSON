@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Solar Future",
+    "category": "Energy from waste",
+    "year_started": "2020",
+    "location": "Sydney, New South Wales",
+    "total_cost": 500000.0,
+    "funding": 300000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Wind Vision",
+    "category": "Wind energy",
+    "year_started": "2019",
+    "location": "Melbourne, Victoria",
+    "total_cost": 750000.0,
+    "funding": 500000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Hydro NextGen",
+    "category": "Education",
+    "year_started": "2021",
+    "location": "Brisbane, Queensland",
+    "total_cost": 600000.0,
+    "funding": 400000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "BioPower Drive",
+    "category": "Bioenergy",
+    "year_started": "2018",
+    "location": "Adelaide, South Australia",
+    "total_cost": 450000.0,
+    "funding": 250000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Geothermal Edge",
+    "category": "Distributed energy resources",
+    "year_started": "2022",
+    "location": "Perth, Western Australia",
+    "total_cost": 850000.0,
+    "funding": 600000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Tidal Techwave",
+    "category": "Battery storage",
+    "year_started": "2023",
+    "location": "Hobart, Tasmania",
+    "total_cost": 550000.0,
+    "funding": 350000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Green Grid",
+    "category": "Electric vehicles",
+    "year_started": "2020",
+    "location": "Canberra, Australian Capital Territory",
+    "total_cost": 700000.0,
+    "funding": 300000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "my project",
+    "category": "Education",
+    "year_started": "2022",
+    "location": "Wollongong, New South Wales",
+    "total_cost": 100000.0,
+    "funding": 20000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Solar Future",
+    "category": "Energy from waste",
+    "year_started": "2020",
+    "location": "Sydney, New South Wales",
+    "total_cost": 500000.0,
+    "funding": 300000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Wind Vision",
+    "category": "Wind energy",
+    "year_started": "2019",
+    "location": "Melbourne, Victoria",
+    "total_cost": 750000.0,
+    "funding": 500000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Hydro NextGen",
+    "category": "Education",
+    "year_started": "2021",
+    "location": "Brisbane, Queensland",
+    "total_cost": 600000.0,
+    "funding": 400000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "BioPower Drive",
+    "category": "Bioenergy",
+    "year_started": "2018",
+    "location": "Adelaide, South Australia",
+    "total_cost": 450000.0,
+    "funding": 250000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Geothermal Edge",
+    "category": "Distributed energy resources",
+    "year_started": "2022",
+    "location": "Perth, Western Australia",
+    "total_cost": 850000.0,
+    "funding": 600000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Tidal Techwave",
+    "category": "Battery storage",
+    "year_started": "2023",
+    "location": "Hobart, Tasmania",
+    "total_cost": 550000.0,
+    "funding": 350000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "Green Grid",
+    "category": "Electric vehicles",
+    "year_started": "2020",
+    "location": "Canberra, Australian Capital Territory",
+    "total_cost": 700000.0,
+    "funding": 300000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  },
+  {
+    "name": "my project 2",
+    "category": "Education",
+    "year_started": "2022",
+    "location": "Wollongong, New South Wales",
+    "total_cost": 100000.0,
+    "funding": 20000.0,
+    "budget": "",
+    "project_period": "",
+    "type": "EnhancedProject"
+  }
+]
