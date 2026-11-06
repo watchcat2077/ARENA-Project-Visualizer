@@ -258,8 +258,8 @@ class InvalidBudgetException(Exception):
 class InvalidDateException(Exception):
     @staticmethod
     def validate_date_range(date_range):
-        # Pattern for date range: DD/MM/YYYY – DD/MM/YYYY (accepts both - and –)
-        pattern = r'^\d{2}/\d{2}/\d{4}\s*[–-]\s*\d{2}/\d{2}/\d{4}$'
+        # Pattern for date range: DD/MM/YYYY – DD/MM/YYYY (accepts both - and –, spaces required)
+        pattern = r'^\d{2}/\d{2}/\d{4}\s+[–-]\s+\d{2}/\d{2}/\d{4}$'
         if not re.match(pattern, date_range):
             raise InvalidDateException(f"Invalid date format: {date_range}. Use format: DD/MM/YYYY – DD/MM/YYYY")
         
